@@ -19,3 +19,5 @@ What happens? It doesnt work nothing will change.
 
 6. The terminal records the methods called and tells me which methods I did to know 
 if I did any issues
+
+7. The codepad is really helpfull for wanting to write code fast 
